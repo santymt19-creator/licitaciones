@@ -1,0 +1,1 @@
+window.SEACE_ACC={"srv": "https://script.google.com/macros/s/AKfycbwGT8jzQT2n7lvOzy24-Z6Agczfy1sZ6UcycJ189hQ515Y_hsx1kyyXg4T4b-0d-Z6C/exec"};
